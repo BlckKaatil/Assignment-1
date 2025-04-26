@@ -1,2 +1,2 @@
-# Assignment-1-
-CSE-AIML SEM ||
+# Assignment-1
+CPP Assignment-1
